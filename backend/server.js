@@ -23,7 +23,8 @@ app.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://klothyx-style-wear-p76y96uxe-amardipyadavs-projects.vercel.app"
+      "https://klothyx-style-wear-p76y96uxe-amardipyadavs-projects.vercel.app",
+      "https://klothyx-style-wear-kkku.vercel.app" // admin
     ],
     credentials: true
   })
