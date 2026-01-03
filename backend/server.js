@@ -24,6 +24,10 @@ app.use(
     origin: [
       "https://klothyx-style-wear-c4e1kzpm2-amardipyadavs-projects.vercel.app",
       "https://klothyx-style-wear-kkku-gyqcqvqwe-amardipyadavs-projects.vercel.app",
+      "https://klothyx-style-wear-git-main-amardipyadavs-projects.vercel.app",
+      "https://klothyx-style-wear.vercel.app",
+      "klothyx-style-wear-kkku.vercel.app"
+      
     ],
     credentials: true
   })
