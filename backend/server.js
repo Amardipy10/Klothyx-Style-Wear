@@ -24,7 +24,9 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://klothyx-style-wear-kkku-h1ixumprc-amardipyadavs-projects.vercel.app",
-      "https://klothyx-style-wear-m7ej475wc-amardipyadavs-projects.vercel.app"
+      "https://klothyx-style-wear-m7ej475wc-amardipyadavs-projects.vercel.app",
+      "https://klothyx-style-wear-kkku.vercel.app/",
+      "https://klothyx-style-wear.vercel.app/"
     ],
     credentials: true
   })
