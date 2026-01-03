@@ -22,8 +22,8 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://klothyx-style-wear-c4e1kzpm2-amardipyadavs-projects.vercel.app/",
-      "https://klothyx-style-wear-kkku-gyqcqvqwe-amardipyadavs-projects.vercel.app/"
+      "https://klothyx-style-wear-c4e1kzpm2-amardipyadavs-projects.vercel.app",
+      "https://klothyx-style-wear-kkku-gyqcqvqwe-amardipyadavs-projects.vercel.app",
     ],
     credentials: true
   })
