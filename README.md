@@ -75,7 +75,7 @@ Klothyx-Style-Wear/
 
 ---
 
-## ⚙️ Highlights (Interview-Friendly)
+## ⚙️ Highlights
 
 - ✅ Full-stack MERN architecture
 - ✅ Secure payment handling with Stripe
@@ -169,22 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this project useful, please **star ⭐** the repository!
 
 Contributions, issues, and feature suggestions are welcome!
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📸 Screenshots
-
-*Add screenshots of your application here to showcase the UI*
 
 ---
 
